@@ -3,16 +3,12 @@ const INFO = {
 		title: "Muskan Portfolio",
 		name: "Muskan Kumari",
 		email: "muskanprajapat4321@gmail.com",
-		logo: "../logo.png",
+		logo: "../logo.jpg",
 	},
 
 	socials: {
-		twitter: "https://twitter.com/", // Not provided in resume
 		github: "https://github.com/banshiwa",
 		linkedin: "https://www.linkedin.com/in/muskan-kumari-8ba57b238/",
-		instagram: "https://instagram.com/", // Not provided
-		stackoverflow: "https://stackoverflow.com/", // Not provided
-		facebook: "https://facebook.com/", // Not provided
 	},
 
 	homepage: {
