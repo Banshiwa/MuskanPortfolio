@@ -106,7 +106,7 @@ const Homepage = () => {
 											src="homepage.jpg"
 											alt="about"
 											className="homepage-image"
-											 style={{ width: "300px", height: "400px", borderRadius: "12px" }} 
+											 style={{ width: "280px", height: "400px", borderRadius: "12px" }} 
 										/>
 									</div>
 								</div>
