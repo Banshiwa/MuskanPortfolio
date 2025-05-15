@@ -2,36 +2,36 @@ const SEO = [
 	{
 		page: "home",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies.",
-		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
+			"I am a full-stack web developer with a solid foundation in DBMS, OOPs, OS, SQL, and AI/ML. I build scalable and efficient applications using modern frameworks like ReactJS and Node.js.",
+		keywords: ["Muskan", "Muskan Kumari", "Full-stack Developer", "AI ML", "ReactJS", "NodeJS"],
 	},
 
 	{
 		page: "about",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies.",
-		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
+			"I am a tech enthusiast who has worked on impactful projects like a sun-tracking solar panel, College System, and web-based games. I actively contribute to tech and cultural communities.",
+		keywords: ["Muskan Kumari", "Web Developer", "College System Project", "Solar Panel Project", "Tech Leader"],
 	},
 
 	{
 		page: "articles",
 		description:
-			"Chronological collection of my long-form thoughts on programming, leadership, product design, and more.",
-		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
+			"A chronological collection of my long-form insights on development, AI/ML, leadership in student communities, and solving real-world problems with code.",
+		keywords: ["Muskan Kumari", "Programming Articles", "AI ML Blog", "Web Development Insights"],
 	},
 
 	{
 		page: "projects",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to.",
-		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
+			"Explore my projects like the sun-tracking solar panel, an interactive Tic-Tac-Toe game, and a full-stack College System application. Built with creativity and code.",
+		keywords: ["Muskan Kumari Projects", "College System", "Tic-Tac-Toe Game", "Arduino Solar Panel", "MERN Stack"],
 	},
 
 	{
 		page: "contact",
 		description:
-			"If you're interested in collaborating on a project, feel free to reach out to me. I'm always open to new ideas and opportunities.",
-		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
+			"Interested in collaborating or hiring? Feel free to get in touch. I'm open to internships, freelance, and exciting tech opportunities.",
+		keywords: ["Muskan Kumari Contact", "Developer Collaboration", "Internship", "Freelance Developer"],
 	},
 ];
 

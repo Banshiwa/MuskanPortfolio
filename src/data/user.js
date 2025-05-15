@@ -1,82 +1,63 @@
 const INFO = {
 	main: {
 		title: "Muskan Portfolio",
-		name: "Muskan",
+		name: "Muskan Kumari",
 		email: "muskanprajapat4321@gmail.com",
 		logo: "../logo.png",
 	},
 
 	socials: {
-		twitter: "https://twitter.com/",
-		github: "https://github.com/",
-		linkedin: "https://linkedin.com/",
-		instagram: "https://instagram.com/",
-		stackoverflow: "https://stackoverflow.com/",
-		facebook: "https://facebook.com/",
+		twitter: "https://twitter.com/", // Not provided in resume
+		github: "https://github.com/banshiwa",
+		linkedin: "https://www.linkedin.com/in/muskan-kumari-8ba57b238/",
+		instagram: "https://instagram.com/", // Not provided
+		stackoverflow: "https://stackoverflow.com/", // Not provided
+		facebook: "https://facebook.com/", // Not provided
 	},
 
 	homepage: {
-		title: "Full-stack web and mobile app developer, and amateur astronaut.",
+		title: "Full-stack web developer with strong foundations in computer science.",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
+			"I'm a passionate developer skilled in building both web applications and embedded systems. I have a solid understanding of core CS concepts like DBMS, OOPs, Operating Systems, Software Modeling & Design (SMD), and SQL. I'm also familiar with DSA fundamentals and well-versed in AI/ML concepts. My experience spans frameworks such as ReactJS, NodeJS, and ExpressJS, and I've led impactful projects and events. I thrive in environments where I can contribute creatively and grow collaboratively.",
 	},
 
 	about: {
-		title: "I’m Tharindu N. I live in Sri Lanka, where I design the future.",
+		title: "I’m Muskan Kumari, a developer and leader from India who builds impactful tech.",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
+			"I have contributed to projects like a sun-tracking solar panel, an interactive Tic-Tac-Toe game, and a College System project—each reflecting my blend of technical and creative skills. I've also taken active roles in college clubs, leading promotional and cultural event planning. Along with web technologies, I have strong knowledge of DBMS, OOPs, OS, SMD, SQL, and AI/ML. I'm always excited to collaborate, learn, and bring ideas to life through technology.",
 	},
 
 	articles: {
-		title: "I'm passionate about pushing the boundaries of what's possible and inspiring the next generation of innovators.",
+		title: "Sharing what I learn, build, and lead.",
 		description:
-			"Chronological collection of my long-form thoughts on programming, leadership, product design, and more.",
+			"A space for my thoughts on development, design, leadership, and innovation. Stay tuned for updates!",
 	},
 
 	projects: [
 		{
-			title: "Project 1",
+			title: "College Leave System",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+			"A web application designed to manage and streamline college operations, including student enrollment, attendance, and internal communications. Built using MERN stack technologies.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://college-leave-system.vercel.app/",
+		},
+		{
+		title: "Used Book Reselling Platform",
+		description:
+			"A full-stack platform built with React and FastAPI that allows users to buy and sell second-hand books with ease. Features include JWT-based user authentication, book uploads with images, a personalized dashboard, search functionality, and upcoming price prediction using ML and web scraping.",
+		logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+		linkText: "View Project",
+		link: "https://books-resell.vercel.app/",
 		},
 
 		{
-			title: "Project 2",
+			title: "TIC-TAC-TOE Game",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 3",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 4",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"A responsive, interactive web-based Tic-Tac-Toe game with optimized game logic and smooth UX across devices. Built using HTML, CSS, and JavaScript.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 5",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
+			linkText: "Play Game",
+			link: "https://banshiwa.github.io/TIC_TAC_TOE/",
 		},
 	],
 };
